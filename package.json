@@ -1,0 +1,12 @@
+{
+  "name": "dddd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rampge/testBlockChain.git",
+  "author": "rampage <shaman4845@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "start":"node index.js",
+    "prestart": "tsc"
+  }
+}
